@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Afiqrmadhan
+- 👀 I’m interested in robotics and data analysis
+- 🌱 I’m currently learning Robot Operating System (ROS) for robotics development and Python libraries such as pandas and numpy for data analysis
+- 💞️ I’m looking to collaborate on robotics and data analysis projects
+- 📫 How to reach me:
+     - (Instagram: @afiqrmadhan)
+     - (Linkedin: Muhammad Afiq Ramadhan   Oktaviyanto)
+- 😄 Pronouns: Afiq
+- ⚡ Fun fact: I am an electrical engineering student with a passion for robotics and data analysis
